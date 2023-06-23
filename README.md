@@ -16,9 +16,9 @@ A lot of thing I learn this week!
 * Creating Form
 
 Checkout this project here!
-Click [here](https://.netlify.app/)
+Click [here](https://hlmyrsyd1.netlify.app/)
 
-Checkout my other project also at!
+Checkout my other project !
 Click [here](https://hlmyrsyd.netlify.app/)
 
 <!-- [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6H2sAzcR) -->
