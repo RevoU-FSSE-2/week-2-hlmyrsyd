@@ -3,17 +3,19 @@
 ## Hello I'm Hilmy Rasyad
 This is my second repository and it's also my second project. I have built a simple website that contains :
 * Responsive Navbar 
-* Header
+* Simple Header 
 * Responsive Photos
-* Article
-* Video
-* Simple form
+* Article Layouting
+* Embed Video
+* Simple Form 
 
 ## What I learn from this week?
 A lot of thing I learn this week!
 * Semantic HTML
 * Responsive CSS
 * Creating Form
+* Understanding Flex
+* The Important of Alt in Image
 
 Checkout this project here!
 Click [here](https://hlmyrsyd1.netlify.app/)
